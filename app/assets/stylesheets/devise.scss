@@ -1,11 +1,31 @@
-.new_user {
+
+div.new_user {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 30px 30px 30px 30px;
+  border: 3px solid green;
+
   h2 {
-    margin-top: 408px;
-    margin-bottom: 408px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-size: 50px;
   }
 
-  margin-bottom: 4008px;
-}
-hr {
-  height: 1px !important;
+  label {
+    color: whitesmoke;
+    display: block;
+  }
+
+  #remember {
+    display: flex;
+    justify-content: left;
+    label {
+      padding-left: 10px;
+    }
+    input {
+      margin-top: 5px;
+    }
+  }
 }
