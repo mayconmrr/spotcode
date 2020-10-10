@@ -1,24 +1,49 @@
-# README
+# Spotcode
+Send and receive messages using this awesome app.
+As `User` you can:
+  -> Play your favorite songs;
+  -> Search new songs;
+  -> Add songs to your list of favorite songs
+  -> Play the songs played recently
+  -> Discovery new songs based on your favorite genre
+- - - - -
+# App Preview
+`Song page`
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  ![](app/assets/images/readme/chat.png)
 
-Things you may want to cover:
+- - - - -
 
-* Ruby version
+`Album page`
 
-* System dependencies
+  ![](app/assets/images/readme/album.png)
 
-* Configuration
+- - - - -
 
-* Database creation
+`Search page`
 
-* Database initialization
+  ![](app/assets/images/readme/search.png)
 
-* How to run the test suite
+- - - - -
 
-* Services (job queues, cache servers, search engines, etc.)
+`Music by genre`
 
-* Deployment instructions
+  ![](app/assets/images/readme/genre.png)
 
-* ...
+## Ruby Verion
+Ruby 2.5.1
+
+## Rails Version
+Rails 5.2.4
+
+## Setup
+Run in your console:
+```
+bin/setup
+```
+```
+rails db:drop db:create db:migrate db:seeds
+```
+
+## Project Inspiration
+https://onebitcode.com/
