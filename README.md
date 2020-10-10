@@ -13,7 +13,7 @@ As an `User` you can:
 # App Preview
 `Song page`
 
-  ![](app/assets/images/readme/chat.png)
+  ![](app/assets/images/readme/song.png)
 
 - - - - -
 
