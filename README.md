@@ -1,12 +1,15 @@
 # Spotcode
-Send and receive messages using this awesome app.
-As `User` you can:
-  -> Play your favorite songs;
-  -> Search new songs;
+Music streaming service which allows users to listen to their favorite songs.
+
+As an `User` you can:
+```
+  -> Play your favorite songs
+  -> Search new songs
   -> Add songs to your list of favorite songs
   -> Play the songs played recently
   -> Discovery new songs based on your favorite genre
-- - - - -
+```
+
 # App Preview
 `Song page`
 
